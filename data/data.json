@@ -1,0 +1,360 @@
+[
+  {
+    "chefName": "Keka Ferdousi",
+    "id": 9,
+    "picture": "/chefimg/sp1.jpg",
+    "yearsOfExperience": 20,
+    "numRecipes": 300,
+    "likes": 15000,
+    "recipes": [
+      {
+        "name": "Shorshe Ilish with loodues  (Hilsa Fish in Mustard Sauce)",
+        "ingredients": [
+          "Hilsa fish",
+          "mustard paste",
+          "green chili",
+          "turmeric powder",
+          "salt",
+          "mustard oil"
+        ],
+        "rating": 4.9,
+        "cooking_method": "1. Marinate the hilsa fish with turmeric powder and salt.\n2. Heat mustard oil in a pan and fry the fish on both sides until golden brown. Set aside.\n3. In the same pan, add mustard paste, green chili, turmeric powder, and salt. Cook for a few minutes.\n4. Add water and bring it to a simmer.\n5. Add the fried fish to the sauce and cook for a few more minutes.\n6. Serve hot with steamed rice."
+      },
+      {
+        "name": "Chitol Macher Muitha (Fish Dumplings in Gravy)",
+        "ingredients": [
+          "Chitol fish",
+          "onion",
+          "ginger",
+          "garlic",
+          "chili powder",
+          "turmeric powder",
+          "garam masala",
+          "salt",
+          "mustard oil",
+          "ghee",
+          "coriander leaves"
+        ],
+        "rating": 4.7,
+        "cooking_method": "1. Boil the chitol fish and remove the bones. Mash the fish meat.\n2. In a pan, heat mustard oil and ghee. Fry onions until golden brown.\n3. Add ginger-garlic paste, chili powder, turmeric powder, garam masala, and salt. Cook for a few minutes.\n4. Add the mashed fish meat and mix well.\n5. Shape the mixture into small dumplings and steam them for 10-15 minutes.\n6. In a separate pan, prepare a gravy with onion, ginger-garlic paste, chili powder, turmeric powder, garam masala, and salt.\n7. Add the steamed fish dumplings to the gravy and cook for a few more minutes.\n8. Garnish with coriander leaves and serve hot with rice."
+      },
+      {
+        "name": "Panta Bhat (Fermented Rice)",
+        "ingredients": [
+          "cooked rice",
+          "water",
+          "yogurt",
+          "salt",
+          "onion",
+          "green chili",
+          "coriander leaves",
+          "lemon"
+        ],
+        "rating": 4.5,
+        "cooking_method": "1. Take leftover cooked rice and soak it in water overnight.\n2. In the morning, add yogurt, salt, and water to the soaked rice. Mix well.\n3. Serve the panta bhat in a bowl.\n4. Garnish with chopped onion, green chili, coriander leaves, and a squeeze of lemon.\n5. Enjoy it as a refreshing and cooling dish."
+      }
+    ]
+  },
+  {
+    "chefName": "Shawkat Osman",
+    "id": 1,
+    "picture": "/chefimg/beta1.jpg",
+    "yearsOfExperience": 25,
+    "numRecipes": 500,
+    "likes": 25000,
+    "recipes": [
+      {
+        "name": "Beef Bhuna",
+        "ingredients": [
+          "beef",
+          "onion",
+          "garlic",
+          "ginger",
+          "tomato",
+          "spices"
+        ],
+        "rating": 4.6,
+        "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown.\n2. Add ginger paste and garlic paste to the pan. Sauté for a minute.\n3. Add shrimp and cook until they turn pink and are cooked through.\n4. Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.\n5. Cover the pan and simmer for about 10 minutes until the flavors are well combined.\n6. Garnish with fresh coriander leaves. Serve hot with rice or naan."
+      },
+      {
+        "name": "Chicken Roast",
+        "ingredients": ["chicken", "yogurt", "garlic", "ginger", "spices"],
+        "rating": 4.2,
+        "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown.\n2. Add ginger paste and garlic paste to the pan. Sauté for a minute.\n3. Add shrimp and cook until they turn pink and are cooked through.\n4. Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.\n5. Cover the pan and simmer for about 10 minutes until the flavors are well combined.\n6. Garnish with fresh coriander leaves. Serve hot with rice or naan."
+      },
+      {
+        "name": "Shorshe Chingri (Mustard Prawn)",
+        "ingredients": ["prawn", "mustard", "coconut", "green chili", "spices"],
+        "rating": 4.8,
+        "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown.\n2. Add ginger paste and garlic paste to the pan. Sauté for a minute.\n3. Add shrimp and cook until they turn pink and are cooked through.\n4. Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.\n5. Cover the pan and simmer for about 10 minutes until the flavors are well combined.\n6. Garnish with fresh coriander leaves. Serve hot with rice or naan."
+      }
+    ]
+  },
+
+  {
+    "chefName": "Nazia Malik",
+    "id": 2,
+    "picture": "/chefimg/beti2.jpg",
+    "yearsOfExperience": 15,
+    "numRecipes": 300,
+    "likes": 12000,
+    "recipes": [
+      {
+        "name": "Fish Kalia (spicy fish curry)",
+        "ingredients": [
+          "fish",
+          "onion",
+          "garlic",
+          "ginger",
+          "tomato",
+          "spices"
+        ],
+        "rating": 4.7,
+        "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown.\n2. Add ginger paste and garlic paste to the pan. Sauté for a minute.\n3. Add shrimp and cook until they turn pink and are cooked through.\n4. Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.\n5. Cover the pan and simmer for about 10 minutes until the flavors are well combined.\n6. Garnish with fresh coriander leaves. Serve hot with rice or naan."
+      },
+      {
+        "name": "Aloo Posto (potatoes in poppy seed paste)",
+        "ingredients": ["potato", "poppy seeds", "green chili", "mustard oil"],
+        "rating": 4.5,
+        "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown.\n2. Add ginger paste and garlic paste to the pan. Sauté for a minute.\n3. Add shrimp and cook until they turn pink and are cooked through.\n4. Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.\n5. Cover the pan and simmer for about 10 minutes until the flavors are well combined.\n6. Garnish with fresh coriander leaves. Serve hot with rice or naan."
+      },
+      {
+        "name": "Mutton Rezala",
+        "ingredients": ["mutton", "yogurt", "almonds", "spices"],
+        "rating": 4.9,
+        "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown.\n2. Add ginger paste and garlic paste to the pan. Sauté for a minute.\n3. Add shrimp and cook until they turn pink and are cooked through.\n4. Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.\n5. Cover the pan and simmer for about 10 minutes until the flavors are well combined.\n6. Garnish with fresh coriander leaves. Serve hot with rice or naan."
+      }
+    ]
+  },
+  {
+    "chefName": "Rajib Ahmed",
+    "id": 4,
+    "picture": "/chefimg/beta2.jpg",
+    "yearsOfExperience": 18,
+    "numRecipes": 350,
+    "likes": 18000,
+    "recipes": [
+      {
+        "name": "Bangladeshi-style Pizza",
+        "ingredients": [
+          "pizza dough",
+          "ground beef",
+          "onion",
+          "bell pepper",
+          "tomato",
+          "cilantro",
+          "mozzarella cheese",
+          "spices"
+        ],
+        "rating": 4.6,
+        "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown.\n2. Add ginger paste and garlic paste to the pan. Sauté for a minute.\n3. Add shrimp and cook until they turn pink and are cooked through.\n4. Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.\n5. Cover the pan and simmer for about 10 minutes until the flavors are well combined.\n6. Garnish with fresh coriander leaves. Serve hot with rice or naan."
+      },
+      {
+        "name": "Tehari (Bangladeshi spicy rice dish)",
+        "ingredients": [
+          "rice",
+          "beef",
+          "potato",
+          "onion",
+          "garlic",
+          "ginger",
+          "spices"
+        ],
+        "rating": 4.9,
+        "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown.\n2. Add ginger paste and garlic paste to the pan. Sauté for a minute.\n3. Add shrimp and cook until they turn pink and are cooked through.\n4. Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.\n5. Cover the pan and simmer for about 10 minutes until the flavors are well combined.\n6. Garnish with fresh coriander leaves. Serve hot with rice or naan."
+      },
+      {
+        "name": "Rosogollar Payesh (Bengali style Rice pudding)",
+        "ingredients": [
+          "rice",
+          "milk",
+          "sugar",
+          "condensed milk",
+          "cottage cheese balls",
+          "cardamom powder"
+        ],
+        "rating": 4.8,
+        "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown.\n2. Add ginger paste and garlic paste to the pan. Sauté for a minute.\n3. Add shrimp and cook until they turn pink and are cooked through.\n4. Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.\n5. Cover the pan and simmer for about 10 minutes until the flavors are well combined.\n6. Garnish with fresh coriander leaves. Serve hot with rice or naan."
+      }
+    ]
+  },
+  {
+    "chefName": "Nadia Rahman",
+    "id": 5,
+    "picture": "/chefimg/beti3.jpg",
+    "yearsOfExperience": 12,
+    "numRecipes": 200,
+    "likes": 14000,
+    "recipes": [
+      {
+        "name": "Morog Polao (Chicken Pilaf)",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 pound chicken pieces",
+          "1/2 cup onion, sliced",
+          "1/2 cup tomatoes, chopped",
+          "1/4 cup yogurt",
+          "1 teaspoon ginger paste",
+          "1 teaspoon garlic paste",
+          "1 teaspoon red pepper powder",
+          "1/2 teaspoon turmeric powder",
+          "1/2 teaspoon cumin powder",
+          "1/2 teaspoon coriander powder",
+          "4 tablespoon oil",
+          "4 cups chicken stock",
+          "Salt to taste"
+        ],
+        "rating": 4.7,
+        "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown.\n2. Add ginger paste and garlic paste to the pan. Sauté for a minute.\n3. Add shrimp and cook until they turn pink and are cooked through.\n4. Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.\n5. Cover the pan and simmer for about 10 minutes until the flavors are well combined.\n6. Garnish with fresh coriander leaves. Serve hot with rice or naan."
+      },
+      {
+        "name": "Begun Bhaji (Eggplant Fry)",
+        "ingredients": [
+          "1 large eggplant, sliced",
+          "1/2 teaspoon turmeric powder",
+          "1/2 teaspoon red chili powder",
+          "1/2 teaspoon cumin powder",
+          "1/2 teaspoon coriander powder",
+          "Salt and black pepper, to taste",
+          "Oil for frying"
+        ],
+        "rating": 4.5,
+        "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown.\n2. Add ginger paste and garlic paste to the pan. Sauté for a minute.\n3. Add shrimp and cook until they turn pink and are cooked through.\n4. Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.\n5. Cover the pan and simmer for about 10 minutes until the flavors are well combined.\n6. Garnish with fresh coriander leaves. Serve hot with rice or naan."
+      },
+      {
+        "name": "Mishti Doi (Sweet Yogurt)",
+        "ingredients": [
+          "1 liter milk",
+          "2 tablespoons plain yogurt",
+          "1 cup sugar",
+          "1/2 teaspoon cardamom powder"
+        ],
+        "rating": 4.9,
+        "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown.\n2. Add ginger paste and garlic paste to the pan. Sauté for a minute.\n3. Add shrimp and cook until they turn pink and are cooked through.\n4. Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.\n5. Cover the pan and simmer for about 10 minutes until the flavors are well combined.\n6. Garnish with fresh coriander leaves. Serve hot with rice or naan."
+      }
+    ]
+  },
+  {
+    "chefName": "Juan Rodriguez",
+    "id": 7,
+    "picture": "/chefimg/beti4.jpg",
+    "yearsOfExperience": 15,
+    "numRecipes": 300,
+    "likes": 18000,
+    "recipes": [
+      {
+        "name": "Carne Asada Tacos",
+        "ingredients": [
+          "1 pound beef steak, sliced into thin strips",
+          "1/2 onion, sliced",
+          "1/2 red bell pepper, sliced",
+          "1/2 green bell pepper, sliced",
+          "2 cloves garlic, minced",
+          "1 tablespoon chili powder",
+          "1/2 teaspoon ground cumin",
+          "1/4 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "8 corn tortillas",
+          "Optional toppings: chopped cilantro, diced tomatoes, shredded cheese, salsa, lime wedges"
+        ],
+        "rating": 4.9,
+        "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown.\n2. Add ginger paste and garlic paste to the pan. Sauté for a minute.\n3. Add shrimp and cook until they turn pink and are cooked through.\n4. Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.\n5. Cover the pan and simmer for about 10 minutes until the flavors are well combined.\n6. Garnish with fresh coriander leaves. Serve hot with rice or naan."
+      },
+      {
+        "name": "Elotes (Mexican Grilled Corn)",
+        "ingredients": [
+          "4 ears of corn, husks and silk removed",
+          "1/4 cup mayonnaise",
+          "1/4 cup sour cream",
+          "1/2 cup crumbled queso fresco or cotija cheese",
+          "1 teaspoon chili powder",
+          "1 lime, cut into wedges"
+        ],
+        "rating": 4.8,
+        "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown.\n2. Add ginger paste and garlic paste to the pan. Sauté for a minute.\n3. Add shrimp and cook until they turn pink and are cooked through.\n4. Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.\n5. Cover the pan and simmer for about 10 minutes until the flavors are well combined.\n6. Garnish with fresh coriander leaves. Serve hot with rice or naan."
+      },
+      {
+        "name": "Tres Leches Cake",
+        "ingredients": [
+          "1 box yellow cake mix",
+          "3 eggs",
+          "1/2 cup oil",
+          "1/2 cup water",
+          "1 can evaporated milk",
+          "1 can sweetened condensed milk",
+          "1 cup heavy cream",
+          "1 teaspoon vanilla extract",
+          "Fresh fruit or whipped cream for topping (optional)"
+        ],
+        "rating": 4.7,
+        "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown.\n2. Add ginger paste and garlic paste to the pan. Sauté for a minute.\n3. Add shrimp and cook until they turn pink and are cooked through.\n4. Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.\n5. Cover the pan and simmer for about 10 minutes until the flavors are well combined.\n6. Garnish with fresh coriander leaves. Serve hot with rice or naan."
+      }
+    ]
+  },
+  {
+    "chefName": "Sara Kim",
+    "id": 8,
+    "picture": "/chefimg/beti1.jpg",
+    "yearsOfExperience": 8,
+    "numRecipes": 100,
+    "likes": 6000,
+    "recipes": [
+      {
+        "name": "Spicy Korean Fried Chicken",
+        "ingredients": [
+          "1 pound chicken wings",
+          "1/2 cup flour",
+          "1/2 cup cornstarch",
+          "1 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1/2 teaspoon garlic powder",
+          "1/2 teaspoon onion powder",
+          "1/2 cup hot sauce",
+          "1/4 cup honey",
+          "1 tablespoon soy sauce",
+          "2 tablespoons butter",
+          "2 cloves garlic, minced"
+        ],
+        "rating": 4.9,
+        "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown.\n2. Add ginger paste and garlic paste to the pan. Sauté for a minute.\n3. Add shrimp and cook until they turn pink and are cooked through.\n4. Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.\n5. Cover the pan and simmer for about 10 minutes until the flavors are well combined.\n6. Garnish with fresh coriander leaves. Serve hot with rice or naan."
+      },
+      {
+        "name": "Japchae (Korean Sweet Potato Noodles)",
+        "ingredients": [
+          "1/2 pound sweet potato noodles",
+          "1/2 pound beef sirloin, sliced into thin strips",
+          "1/2 onion, sliced",
+          "1 red bell pepper, sliced",
+          "1 carrot, sliced",
+          "2 cups spinach",
+          "4 cloves garlic, minced",
+          "1/4 cup soy sauce",
+          "2 tablespoons sesame oil",
+          "2 tablespoons brown sugar",
+          "1 tablespoon vegetable oil"
+        ],
+        "rating": 4.7,
+        "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown.\n2. Add ginger paste and garlic paste to the pan. Sauté for a minute.\n3. Add shrimp and cook until they turn pink and are cooked through.\n4. Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.\n5. Cover the pan and simmer for about 10 minutes until the flavors are well combined.\n6. Garnish with fresh coriander leaves. Serve hot with rice or naan."
+      },
+      {
+        "name": "Bibimbap (Korean Mixed Rice Bowl)",
+        "ingredients": [
+          "2 cups cooked rice",
+          "1/2 cup ground beef",
+          "1/2 cup sliced mushrooms",
+          "1/2 cup sliced carrots",
+          "1/2 cup sliced zucchini",
+          "1/2 cup bean sprouts",
+          "1/2 cup spinach",
+          "2 eggs, fried or poached",
+          "3 tablespoons gochujang (Korean chili paste)",
+          "1 tablespoon soy sauce",
+          "1 tablespoon sesame oil",
+          "1 tablespoon vegetable oil"
+        ],
+        "rating": 4.8,
+        "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown.\n2. Add ginger paste and garlic paste to the pan. Sauté for a minute.\n3. Add shrimp and cook until they turn pink and are cooked through.\n4. Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.\n5. Cover the pan and simmer for about 10 minutes until the flavors are well combined.\n6. Garnish with fresh coriander leaves. Serve hot with rice or naan."
+      }
+    ]
+  }
+]
