@@ -6,6 +6,7 @@
     "yearsOfExperience": 20,
     "numRecipes": 300,
     "likes": 15000,
+    "bio": "Keka Ferdousi is a talented chef known for her expertise in cooking a wide variety of noodles. With her passion for culinary arts and dedication to creating delicious and flavorful dishes, she has established herself as a skilled noodle chef. Born with a love for cooking, Keka developed a special interest in noodles early on. She immersed herself in the art of noodle-making, studying different types of noodles, mastering various cooking techniques, and experimenting with unique flavors and ingredients. Her creativity and skill in noodle preparation have earned her a reputation for serving mouthwatering noodle dishes.",
     "recipes": [
       {
         "name": "Shorshe Ilish with loodues  (Hilsa Fish in Mustard Sauce)",
@@ -62,6 +63,7 @@
     "yearsOfExperience": 25,
     "numRecipes": 500,
     "likes": 25000,
+    "bio": "Shawkat Osman is a renowned chef known for his culinary expertise and ability to cook over 500 different recipes. With a passion for food and a creative flair in the kitchen, Shawkat has gained recognition for his culinary skills and has become a trusted name in the culinary world.Born with a natural talent for cooking, Shawkat Osman developed his skills through years of dedication and practice. He has mastered various cuisines, including international dishes, fusion cuisine, and traditional favorites. His wide repertoire of recipes showcases his versatility and ability to create delectable dishes that satisfy the taste buds of food enthusiasts.",
     "recipes": [
       {
         "name": "Beef Bhuna",
@@ -98,6 +100,7 @@
     "yearsOfExperience": 15,
     "numRecipes": 300,
     "likes": 12000,
+    "bio": "Nazia Malik is a talented chef known for her expertise in cooking a wide variety of recipes. With her culinary skills, she has mastered and can prepare up to 300 different recipes. From traditional dishes to international cuisines, Nazia Malik's repertoire includes a diverse range of delectable meals, ensuring there's something for everyone to enjoy. Her passion for cooking and dedication to exploring new flavors and techniques have made her a favorite among food enthusiasts. Whether it's hearty comfort food, exotic dishes, or delicate desserts, Nazia Malik's culinary creations are sure to impress.",
     "recipes": [
       {
         "name": "Fish Kalia (spicy fish curry)",
@@ -129,10 +132,11 @@
   {
     "chefName": "Rajib Ahmed",
     "id": 4,
-    "picture": "/chefimg/beta2.jpg",
+    "picture": "/chefimg/beta2.png",
     "yearsOfExperience": 18,
     "numRecipes": 350,
     "likes": 18000,
+    "bio": "Rajib Ahmed is a talented chef with a passion for culinary arts. With over 350 recipes under his belt, he has honed his skills and expertise in creating delicious and flavorful dishes. Rajib is known for his innovative approach to cooking, incorporating unique flavors and techniques into his recipes.",
     "recipes": [
       {
         "name": "Bangladeshi-style Pizza",
@@ -185,6 +189,7 @@
     "yearsOfExperience": 12,
     "numRecipes": 200,
     "likes": 14000,
+    "bio": "Nadia Rahman is a skilled chef renowned for her expertise in creating delectable dishes. With an impressive repertoire of 200 Morog Polao (Chicken Pilaf) recipes, she has established herself as a master of this traditional dish. Nadia's passion for cooking developed at an early age, and she has dedicated herself to perfecting the art of creating flavorful and aromatic Morog Polao.",
     "recipes": [
       {
         "name": "Morog Polao (Chicken Pilaf)",
@@ -235,12 +240,13 @@
     ]
   },
   {
-    "chefName": "Juan Rodriguez",
+    "chefName": "rehena begom",
     "id": 7,
     "picture": "/chefimg/beti4.jpg",
     "yearsOfExperience": 15,
     "numRecipes": 300,
     "likes": 18000,
+    "bio": "Rehena Begom is a talented chef known for her mastery of creating the best Elotes (Mexican Grilled Corn) dishes. With an impressive collection of 300 recipes dedicated to this flavorful street food, she has become a go-to authority on Elotes. Rehena's passion for culinary arts and her exploration of diverse flavors have allowed her to perfect the art of preparing this beloved Mexican dish.",
     "recipes": [
       {
         "name": "Carne Asada Tacos",
@@ -298,6 +304,7 @@
     "yearsOfExperience": 8,
     "numRecipes": 100,
     "likes": 6000,
+    "bio": "Sara Kim is a culinary enthusiast and a creative chef with a repertoire of 100 diverse and innovative recipes. Her passion for cooking and exploring new flavors has led her to experiment with various cuisines and ingredients. From mouthwatering appetizers to delectable main courses and irresistible desserts, Sara's recipes reflect her culinary expertise and love for creating memorable dining experiences.",
     "recipes": [
       {
         "name": "Spicy Korean Fried Chicken",

@@ -8,7 +8,7 @@ const data = require('./data/data.json');
 app.use(cors());
 
 app.get('/', (req, res) => {
-    res.send('Dragon is running')
+    res.send('red horse is running')
 });
 
 app.get('/data', (req, res) => {
@@ -20,11 +20,11 @@ app.get('/data', (req, res) => {
 
 
 app.get('/data/:id', (req, res) => {
-  const id = req.params.id;
-  const filteredData = data.filter(recipe => recipe.id === id);
+  const id = parseInt(req.params.id);
+  const filteredData = data.find(recipe => recipe.id === id);
   res.send(filteredData);
 });
 
 app.listen(port, () => {
-    console.log(`Dragon API is running on port: ${port}`)
+    console.log(`port aise goo: ${port}`)
 })
